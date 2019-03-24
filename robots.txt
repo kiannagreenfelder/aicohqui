@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oosheusaep.farmingtonrobotics.org/sitemap.xml
